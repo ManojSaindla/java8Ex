@@ -26,7 +26,7 @@ public class HashMapEx {
 	
 	System.out.println(hm1.equals(hm));
 	
-	System.out.println("The hashcode of hm is " + hm.hashCode());
+	System.out.println("The  hashcode of hm is " + hm.hashCode());
 	
 	System.out.println("The hashcode of hm1 is " + hm1.hashCode());
 	}
